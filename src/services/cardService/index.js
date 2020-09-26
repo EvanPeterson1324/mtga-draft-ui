@@ -1,0 +1,1 @@
+export { default as getCardById } from './getCardById.js';
