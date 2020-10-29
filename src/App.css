@@ -14,6 +14,7 @@ ul {
 .Card {
   margin: 5px;
 }
+
 .PackInfo {
   margin-top: 10px;
   color: white
@@ -32,6 +33,10 @@ ul {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.HighlightCard {
+  border: 1pt solid gold;
+}
+
+.SelectedCardsContainer {
+  background-color: white;
 }
